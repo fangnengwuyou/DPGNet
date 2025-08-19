@@ -1,3 +1,2 @@
-# DPGNet
-Progressive Medical Image Segmentation: A Collaborative Learning Approach for Vague Boundary Perception
-The code will be made public soon!!!
+# DPGNet: A Boundary-Aware Medical Image Segmentation Framework via Uncertainty Perception
+The Code will be made public soon
