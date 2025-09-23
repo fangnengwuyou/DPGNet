@@ -1,2 +1,2 @@
 # DPGNet: A Boundary-Aware Medical Image Segmentation Framework via Uncertainty Perception
-The Code will be made public soon
+The model code and checkpoints will be made public before October 1, 2025 (UTC+8)
