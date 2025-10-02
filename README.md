@@ -1,5 +1,5 @@
 # DPGNet: A Boundary-Aware Medical Image Segmentation Framework via Uncertainty Perception
-The model code and checkpoints in the polyp dataset have been made public now.
+The model code and checkpoint in polyp dataset have been made public now.
 
 **model code**: in [lib](lib/DPGNet)
 
